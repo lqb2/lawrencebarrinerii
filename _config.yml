@@ -9,13 +9,13 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://lawrencebarrinerii.com'
+domain_name: 'http://www.lawrencebarrinerii.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://lawrencebarrinerii.com'
+url:            'http://www.lawrencebarrinerii.com'
 author:         'Lawrence Barriner II'
 authorTwitter:  'lqb2'
 
