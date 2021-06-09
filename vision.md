@@ -4,7 +4,8 @@ permalink: vision/
 profile: true
 ---
 
-# Values
+## Values 
+<br><br>
 
 My core values are love/justice, community, and transformation. Other values that are important to me are self-determination, equity, and diversity.
 
