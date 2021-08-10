@@ -5,8 +5,6 @@ title: summer 2021 travel schedule
 
 here is a high-level outline of my travel plans for summer and early fall 2021. this list has been compiled to help me coordinate with all of my closest beloveds. 
 
-## v2
-
 * **june 25-july 12**: bethel, VT —> knoll farm (waitsfield, VT) —> waterboro, maine
 * **july 12-20**: cambridge, ma
 * **july 20-25**: western mass / upstate NY / CT
@@ -27,7 +25,7 @@ here is a high-level outline of my travel plans for summer and early fall 2021. 
 * **sept 27-oct 1**: personal retreat (hopefully somewhere in maine but maybe need to be in cambridge)
 * **oct 2-8**: dickinson’s reach (machias, me)
 * **oct 8-11**: framily weekend (western, ma)
-
+<!-- 
 ## v1
 
 * **june 25-july 12**: bethel, VT —> knoll farm (waitsfield, VT) —> waterboro, maine
@@ -44,4 +42,4 @@ here is a high-level outline of my travel plans for summer and early fall 2021. 
 * **sept 17-26**: allagash river, me
 * **sept 27-oct 1**: personal retreat - location unknown OR FL trip to see family
 * **oct 2-8**: dickinson’s reach (machias, me)
-* **oct 8-11**: framily weekend (western, ma)
+* **oct 8-11**: framily weekend (western, ma) -->
