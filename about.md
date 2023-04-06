@@ -13,7 +13,7 @@ I believe in the power of love to create justice and the power of story to make 
 
 At the scale of the individual, I support transformation through 1on1 **coaching**. At the organizational scale, I **facilitate** as a means to support groups of people to move through or transform in relationship to barriers. At the network scale, I support ecosystem transformation by supporting people to **think** about what it means to move like a network and then **act** accordingly. 
 
-I have a Master of City Planning and Bachelor of Science in Planning, both from MIT's Department of Urban Studies and Planning. My research while at MIT primarily focused on food systems and food justice. Teaching (and doing) photography scratched my creative itches. 
+I have a Master of City Planning and Bachelor of Science in Planning, both from MIT's Department of Urban Studies and Planning. My research while at MIT primarily focused on food systems and food justice. Teaching (and doing) [photography](https://imgur.com/a/Dp1CO){:target="_blank"} scratched my creative itches. 
 
 My paid work is primarily **consulting, facilitation** and **coaching**. I do these through my firm, [lqb2 & co](http://lqb2.co/){:target="_blank"}.
 
